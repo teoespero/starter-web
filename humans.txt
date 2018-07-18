@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thanks to James Taylor
 
 # TECHNOLOGY COLOPHON
 
