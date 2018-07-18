@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a sample project that I am using to learn Git and GitHub together.
+This is a sample project that I am using to learn Git and GitHub together. Adding a line for rebasing example.
 
 ## Introduction
 
