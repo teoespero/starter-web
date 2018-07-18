@@ -17,4 +17,4 @@ Please fork this repository.
 
 ## Copyright
 
-2018 Git Training
+2018 Git Training, teoespero.com
