@@ -14,3 +14,7 @@ This is a sample web project, deployment can be on any web server or even local 
 ## How to contribute
 
 This is for personal use only (for now).
+
+------------
+
+Sample additional text
